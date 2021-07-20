@@ -5,6 +5,12 @@ root: .
 
 *an introduction to R for non-programmers using gapminder data*
 
+> ## ATTENTION
+> 
+> This is a modified version of the original lesson plan, tailored for
+> UoR Carpentries workshop 27/07/2021.
+{: .keypoints}
+
 The goal of this lesson is to teach novice programmers to write modular code
 and best practices for using R for data analysis. R is commonly used in many
 scientific disciplines for statistical analysis and its array of third-party
