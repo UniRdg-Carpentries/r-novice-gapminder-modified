@@ -11,5 +11,5 @@ It can be downloaded [here](https://www.rstudio.com/products/rstudio/download/).
 You will need the free Desktop version for your computer.
 
 You will also need to download the following data files:
-* (Gapminder)[https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/gh-pages/_episodes_rmd/data/gapminder_data.csv]
-* (SAFI dataset)[https://ndownloader.figshare.com/files/11492171]
+* [Gapminder](https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/gh-pages/_episodes_rmd/data/gapminder_data.csv)
+* [SAFI dataset](https://ndownloader.figshare.com/files/11492171)
